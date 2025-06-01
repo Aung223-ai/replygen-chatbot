@@ -1,0 +1,9 @@
+langchain
+openai
+chromadb
+faiss-cpu
+tqdm
+python-dotenv
+flask
+docker
+boto3

@@ -1,0 +1,1 @@
+This file contains knowledge base content for the chatbot.
